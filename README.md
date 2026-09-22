@@ -23,7 +23,10 @@ Ensure the `db.json` file is present in the project directory, then run the foll
 ```bash
 npx json-server --watch db.json --port 9000
 
-### 1. Run the User Interface (Frontend)
+```
+
+
+### 2. Run the User Interface (Frontend)
 In a new Terminal window, install the packages first  ( if you haven't done so already), then run the application:
 
 npm install
