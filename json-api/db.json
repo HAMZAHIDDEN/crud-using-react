@@ -1,0 +1,61 @@
+{
+  "products": [
+    {
+      "id": "0",
+      "title": "book",
+      "price": 0.1,
+      "description": " string 0000000 ",
+      "category": "html",
+      "image": "http://example.com"
+    },
+    {
+      "id": "1",
+      "title": "book1",
+      "price": 0.2,
+      "description": " string 1111111 ",
+      "category": "css",
+      "image": "http://example.com"
+    },
+    {
+      "id": "2",
+      "title": "book2",
+      "price": 0.3,
+      "description": " string 2222222 ",
+      "category": "react",
+      "image": "http://example.com"
+    },
+    {
+      "id": "3",
+      "title": "book3",
+      "price": 0.4,
+      "description": " string 3333333 ",
+      "category": "Java",
+      "image": "http://example.com"
+    },
+    {
+      "title": "c",
+      "price": 254,
+      "description": "adcvaiub ",
+      "id": "HMpOGpM2bF4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "0",
+      "name": "html"
+    },
+    {
+      "id": "1",
+      "name": "css"
+    },
+    {
+      "id": "2",
+      "name": "react"
+    },
+    {
+      "id": "3",
+      "name": "Java"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
